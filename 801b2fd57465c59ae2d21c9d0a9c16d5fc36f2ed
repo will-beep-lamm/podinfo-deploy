@@ -1,0 +1,1 @@
+{"jobID":"2c938660-0a9e-5818-f074-625c89df1150","spec":{"type":"policy","cause":{"Message":"","User":"Will Lamm \u003clammwh@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
